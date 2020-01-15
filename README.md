@@ -19,3 +19,7 @@ Adding a newsletter section.
 Adding boxes section, with 3 boxes in it.
 
 > Added to a new branch "boxes"
+
+Styling boxes.
+
+> Adding style in "boxes" branch
