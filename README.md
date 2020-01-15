@@ -47,3 +47,7 @@ Styling boxes.
 Styling footer.
 
 > Adding style in "footer" branch
+
+Creating inner pages. Working in html only for now.
+
+> Adding in a new branch "innerpgs"
