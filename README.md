@@ -10,4 +10,8 @@ Building up header, by creating logo and navigation bar in it.
 
 Adding a showcase area.
 
-> Added to a new branch "showcase
+> Added to a new branch "showcase"
+
+Styling showcase.
+
+> Adding style in "showcase" branch
