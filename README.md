@@ -23,3 +23,7 @@ Adding boxes section, with 3 boxes in it.
 Builging up footer, and compliting the markup for the home page
 
 > Added to a new branch "footer"
+
+Styling footer.
+
+> Adding style in "footer" branch
