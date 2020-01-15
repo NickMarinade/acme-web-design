@@ -23,3 +23,7 @@ Adding boxes section, with 3 boxes in it.
 Builging up footer, and compliting the markup for the home page
 
 > Added to a new branch "footer"
+
+Beginning to styling page in css, with adding "global" styling for a non specific sections.
+
+> "global" styling in a new branch "cssglobal"
