@@ -39,3 +39,7 @@ Styling showcase.
 Styling newsletter section.
 
 > Adding style in "newsletter" branch
+
+Styling boxes.
+
+> Adding style in "boxes" branch
