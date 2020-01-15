@@ -51,3 +51,7 @@ Styling footer.
 Creating inner pages. Working in html only for now.
 
 > Adding in a new branch "innerpgs"
+
+Styling about and services pages.
+
+> Adding style in "innerpgs" branch
