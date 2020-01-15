@@ -15,3 +15,7 @@ Adding a showcase area.
 Adding a newsletter section.
 
 > Added to a new branch "newsletter"
+
+Adding boxes section, with 3 boxes in it.
+
+> Added to a new branch "boxes"
