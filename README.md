@@ -35,3 +35,7 @@ Styling header, plus making conflict on purpose in readme file, to see how i can
 Styling showcase.
 
 > Adding style in "showcase" branch
+
+Styling newsletter section.
+
+> Adding style in "newsletter" branch
