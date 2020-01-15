@@ -43,3 +43,7 @@ Styling newsletter section.
 Styling boxes.
 
 > Adding style in "boxes" branch
+
+Styling footer.
+
+> Adding style in "footer" branch
