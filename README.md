@@ -27,3 +27,7 @@ Builging up footer, and compliting the markup for the home page
 Beginning to styling page in css, with adding "global" styling for a non specific sections.
 
 > "global" styling in a new branch "cssglobal"
+
+Adding media queries, so it looks good on mobile devices, plus final touches.
+
+> Adding Media queries to "cssglobal" branch
