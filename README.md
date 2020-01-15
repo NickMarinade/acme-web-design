@@ -55,3 +55,7 @@ Creating inner pages. Working in html only for now.
 Styling about and services pages.
 
 > Adding style in "innerpgs" branch
+
+Adding media queries, so it looks good on mobile devices, plus final touches.
+
+> Adding Media queries to "cssglobal" branch
