@@ -27,3 +27,7 @@ Builging up footer, and compliting the markup for the home page
 Beginning to styling page in css, with adding "global" styling for a non specific sections.
 
 > "global" styling in a new branch "cssglobal"
+
+Styling header, plus making conflict on purpose in readme file, to see how i can solve it when im going to merge one more time "header" branch into "master" with gitkraken
+
+> Styling made in a branch "header"
