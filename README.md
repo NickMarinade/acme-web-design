@@ -19,3 +19,7 @@ Adding a newsletter section.
 Adding boxes section, with 3 boxes in it.
 
 > Added to a new branch "boxes"
+
+Builging up footer, and compliting the markup for the home page
+
+> Added to a new branch "footer"
