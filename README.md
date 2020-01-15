@@ -15,3 +15,7 @@ Adding a showcase area.
 Adding a newsletter section.
 
 > Added to a new branch "newsletter"
+
+Styling newsletter section.
+
+> Adding style in "newsletter" branch
